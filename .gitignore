@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Material del profesor: no se sube al repositorio
+simulador_modbus
+SimuladorModbus
+*.pdf
+
+# Entregas comprimidas
+*.zip
